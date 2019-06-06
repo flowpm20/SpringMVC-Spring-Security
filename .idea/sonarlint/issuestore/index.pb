@@ -13,3 +13,7 @@ O
 SpringMVC.iml,0/4/04216a621caffcbf2957f1b20d33fb7c752fc803
 g
 7src/main/webapp/WEB-INF/applicationContext-security.xml,0/6/06e483cf7a54b21d972f55961de307273fff8f3f
+U
+%src/main/webapp/WEB-INF/jsp/login.jsp,5/8/582bc84275d5b626d3b0f12b82e66269f2fac2a7
+a
+1src/main/java/com/test/pluto/LoginController.java,4/7/47046e6d4ae922fcadd9c22270ce901706afc52c
